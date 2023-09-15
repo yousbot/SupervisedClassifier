@@ -1,6 +1,6 @@
 # Supervised Learning Classification Algorithms
 
-![Archived](https://img.shields.io/badge/Status-Archived-red) ![Open to Contribution](https://img.shields.io/badge/Contributions-Open-green)
+![Archived](https://img.shields.io/badge/Status-Archived-red) 
 
 This package contains a set of computational methods for supervised classification. These algorithms classify a line of data based on a given dataset. Implemented algorithms in this package are:
 
